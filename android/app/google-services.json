@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141286281817",
+    "project_id": "salhurrie",
+    "storage_bucket": "salhurrie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141286281817:android:c8dac4b6f7c45d77b1d748",
+        "android_client_info": {
+          "package_name": "com.example.salhurry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB70FcflP1V7etwZFZWvxkmfldlhHMOtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
