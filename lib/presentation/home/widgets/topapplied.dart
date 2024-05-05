@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:salhurry/presentation/Job%20details/details.dart';
 import 'package:salhurry/presentation/constants/const.dart';
 
 class WidgetAppliedListTop extends StatelessWidget {

@@ -71,6 +71,7 @@ flutter:
     - assets/images/startwindow.gif
     - assets/images/loading.gif
     - assets/images/done.gif
+    - assets/images/star_rating.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

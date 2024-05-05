@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:salhurry/presentation/Earnings/earnings.dart';
 import 'package:salhurry/presentation/Notifications/notification.dart';
+import 'package:salhurry/presentation/Search/search.dart';
 import 'package:salhurry/presentation/bottomNavBAr/Bottom.dart';
 import 'package:salhurry/presentation/home/home.dart';
-import 'package:salhurry/presentation/profile/profbox.dart';
-import 'package:salhurry/presentation/profile/profile.dart';
 import 'package:salhurry/profilefromdemo/profile.dart';
 
 class ScreenMain extends StatelessWidget {
@@ -12,7 +11,7 @@ class ScreenMain extends StatelessWidget {
   // ValueNotifier<int> notif = ValueNotifier(1);
   final List screens = [
     const ScreenHome(),
-    const profchat(),
+   JobListingScreen(),
     const ScreenNotification(),
     const ScreenEarnings(),
      const ScreenProfilee(),

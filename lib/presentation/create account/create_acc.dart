@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:salhurry/presentation/create%20account/widgets/bottom_row.dart';
 import 'package:salhurry/presentation/create%20account/widgets/common_top.dart';
-import 'package:salhurry/presentation/create%20account/widgets/fieldtext.dart';
 import 'package:salhurry/presentation/create%20account/widgets/textfield.dart';
 import 'package:salhurry/presentation/login%20page/login.dart';
 

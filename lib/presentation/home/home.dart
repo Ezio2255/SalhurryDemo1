@@ -39,23 +39,23 @@ class ScreenHome extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   //      WidgetCompleteProfile(width: width, height: height),
-                  const WidgetTopCompaniesRow(
-                    leftportion: "Active List",
-                  ),
-                  khbox15,
-                  Container(
-                    width: width * .38,
-                    height: 180,
-                    child: WidgetAppliedListTop(
-                      width: width,
-                      height: height,
-                      title: "Graphic designer",
-                      posted: '2hr',
-                      loc: 'Kerala,India',
-                      slots: "29",
-                      rating: '3.9',
-                    ),
-                  ),
+                  // const WidgetTopCompaniesRow(
+                  //   leftportion: "Active List",
+                  // ),
+                  // khbox15,
+                  // Container(
+                  //   width: width * .38,
+                  //   height: 180,
+                  //   child: WidgetAppliedListTop(
+                  //     width: width,
+                  //     height: height,
+                  //     title: "Graphic designer",
+                  //     posted: '2hr',
+                  //     loc: 'Kerala,India',
+                  //     slots: "29",
+                  //     rating: '3.9',
+                  //   ),
+                  // ),
                   SizedBox(height: height * .01),
                   const WidgetTopCompaniesRow(
                     leftportion: "Top companies",

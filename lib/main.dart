@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:salhurry/Main/screenmain.dart';
 import 'package:salhurry/presentation/login%20page/login.dart';
-import 'package:salhurry/signpages/welcome_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

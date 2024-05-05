@@ -1,6 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:salhurry/presentation/constants/const.dart';
 class WidgetTopOFHome extends StatelessWidget {
   const WidgetTopOFHome({
     super.key,
@@ -56,13 +56,25 @@ class WidgetTopOFHome extends StatelessWidget {
                 ],
               ),
             ),
-            Text(
-              "Salhurry",
-              style: GoogleFonts.inter(
-                fontSize: 15,
-                fontWeight: FontWeight.w300,
-                color: const Color.fromARGB(255, 66, 32, 178),
-              ),
+            Row(
+              children: [
+                 Container(
+                  width: 20,
+                  height: 20,
+                  decoration: const BoxDecoration(
+                      image: DecorationImage(
+                          image: AssetImage("assets/images/Vector 10.png"))),
+                ),
+              kwbox5,
+                Text(
+                  "Salhurry",
+                  style: GoogleFonts.inter(
+                    fontSize: 15,
+                    fontWeight: FontWeight.w300,
+                    color: const Color.fromARGB(255, 66, 32, 178),
+                  ),
+                ),
+              ],
             ),
           ],
         ),

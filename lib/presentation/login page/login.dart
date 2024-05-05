@@ -1,6 +1,4 @@
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:salhurry/presentation/create%20account/create_acc.dart';
 import 'package:salhurry/presentation/create%20account/widgets/bottom_row.dart';
 import 'package:salhurry/presentation/create%20account/widgets/common_top.dart';

@@ -169,7 +169,7 @@ class WidgetBottomJobsTile extends StatelessWidget {
                         ),
                       ),
                     ),
-                    khbox15,
+                   // khbox15,
                   ],
                 ),
               ],
